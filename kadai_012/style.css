@@ -321,9 +321,6 @@ h3 {
   margin: 10px 0 0 0;
 }
 
-
-
-
 /* CASES */
 #cases {
   margin: 40px auto 40px auto;
@@ -355,18 +352,15 @@ h3 {
 .case-info {
   padding: 10px 20px;
 }
+
 .case-name {
   color: #2710d5;
   font-size: 19px;
 }
+
 .case-content {
   font-size: 14px;
 }
-
-
-
-
-
 
 /* 会社概要 */
 #company {
